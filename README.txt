@@ -1,7 +1,6 @@
 This is a sample project students can use during Matthew's Git class.
 * git@github.com:matthewmccullough/hellogitworld.git
 * git:/
-fdafdsfasfsdasdsda
 
 
 /github.com/matthewmccullough/hellogitworld.git
